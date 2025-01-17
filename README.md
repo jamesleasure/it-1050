@@ -1,2 +1,2 @@
 # it-1050
-Sample IT-1050 Repository
+Starter repository for IT-1050 lab assignments
