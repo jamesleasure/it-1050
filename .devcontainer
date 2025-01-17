@@ -1,0 +1,10 @@
+{
+  "name": "C# Development Environment",
+  "image": "mcr.microsoft.com/dotnet/core/sdk:8.0",
+  "extensions": [
+    "ms-dotnettools.csharp"
+  ],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  }
+}
