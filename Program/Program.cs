@@ -4,8 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        int num = 10;
-        Console.WriteLine(num);
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Welcome to IT-1050!");
     }
 }
